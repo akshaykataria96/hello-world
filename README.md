@@ -1,2 +1,3 @@
 # hello-world
-just a sample project to start over
+
+hey i am a python lover!!
